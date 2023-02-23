@@ -1,0 +1,40 @@
+.calculator {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+input[type="text"] {
+  width: 290px;
+  height: 50px;
+  left: 198px;
+  top: 248px;
+  color: #FFFFFF;
+  border: 2px solid #FFFFFF;
+  margin: 10px;
+  background-color: black;
+  font-size: large;
+
+}
+
+.button-style {
+width: 61px;
+height: 61px;
+left: 425px;
+top: 418px;
+margin: 10px;
+font-size: large;
+
+background: #FFFFFF;
+}
+.button-style:hover{
+border: 2px;
+}
+
+.container{
+  background-color: black;
+  height: 600px;
+}
+h1{
+  color: #FFFFFF;
+}
